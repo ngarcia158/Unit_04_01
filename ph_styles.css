@@ -88,21 +88,33 @@ section.playbill h1{
 
 #play1{
    background: hsl(240, 100%, 88%);
-   font-family: Champagne, cursive
+}
+
+#play1 h1{
+   font-family: Champagne, cursive;
 }
 
 #play2{
    background: hsl(25, 88%, 73%);
+}
+
+#play2 h1{
    font-family: Grunge, 'Times New Roman', times, serif;
 }
 
 #play3{
    background: hsl(0, 100%, 75%);
-   font-family:Impact , Charcoal, sans-serif
+}
+
+#play3 h1{
+   font-family:Impact , Charcoal, sans-serif;
 }
 
 #play4{
    background: hsl(296, 86%, 86%);
+}
+
+#play4 h1{
    font-family:Dobkin , cursive;
 }
 
